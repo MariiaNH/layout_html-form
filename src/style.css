@@ -1,5 +1,5 @@
 
-fieldset {
+.fieldset {
   margin-bottom: 20px;
   padding-bottom: 0;
 }
@@ -11,5 +11,5 @@ fieldset {
 }
 
 fieldset:last-child {
-  margin-bottom: 0 importend;
+  margin-bottom: 0;
 }
